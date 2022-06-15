@@ -2,7 +2,7 @@
 
 I am currently a Software Engineer at [Smartforce®](https://smartforcetech.com/#/home)
 
-<a href="https://app.daily.dev/prietosanti"><img src="https://github.com/prietosanti/prietosanti/blob/master/devcard.svg" width="200" alt="Santiago's Dev Card"/></a>
+<a href="https://app.daily.dev/prietosanti"><img src="https://github.com/prietosanti/prietosanti/blob/main/devcard.svg" width="200" alt="Santiago's Dev Card"/></a>
 
 <!--
 **prietosanti/prietosanti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
