@@ -1,6 +1,6 @@
 # Hi there! I am Santiago 🤝
 
-I am currently a Software Engineer at [Smartforce®](https://smartforcetech.com/#/home)
+I am a Software Engineer 💻
 
 <a href="https://app.daily.dev/prietosanti"><img src="https://github.com/prietosanti/prietosanti/blob/main/devcard.svg" width="200" alt="Santiago's Dev Card"/></a>
 
