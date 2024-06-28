@@ -2,8 +2,8 @@
 
 I am a Software Engineer 💻
 
-<a href="https://app.daily.dev/prietosanti"><img src="https://github.com/prietosanti/prietosanti/blob/main/devcard.svg" width="200" alt="Santiago's Dev Card"/></a>
-
+<!-- <a href="https://app.daily.dev/prietosanti"><img src="https://github.com/prietosanti/prietosanti/blob/main/devcard.svg" width="200" alt="Santiago's Dev Card"/></a> -->
+<a href="https://app.daily.dev/prietosanti"><img src="https://api.daily.dev/devcards/v2/v4QqtySJEe7mQMmKkF2Q3.png?type=default&r=vrp" width="356" alt="Santiago's Dev Card"/></a>
 <!--
 **prietosanti/prietosanti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
